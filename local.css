@@ -1,0 +1,15 @@
+body{
+    background-color: burlywood;
+}
+
+input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+}
